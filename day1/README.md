@@ -12,6 +12,9 @@ Having the same input file, for each element in the left column:
 3. sum these up, this way creating a similarity score
 
 ## Solution outline
+
+Single C file has been used to make building with command line GCC easier (first time usage)
+
 ### 1. part
 1. Read values into a linked list
   1. assuming that the input length is not given
