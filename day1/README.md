@@ -1,17 +1,18 @@
-# Task description
-## 1. part
+# Summary
+## Task description
+### 1. part
 The input file contains two, unsigned integers in each row, representing two columns.
 The task was to order each of the two columns increasingly,
 and calculate the sum of the absolute difference between the arising pairs.
 
-## 2. part
+### 2. part
 Having the same input file, for each element in the left column:
 1. count the number of appearance in the right column
 2. multiply the count by the number itself
 3. sum these up, this way creating a similarity score
 
-# Solution outline
-## 1. part
+## Solution outline
+### 1. part
 1. Read values into a linked list
   1. assuming that the input length is not given
   2. avoiding many memory reallocations)
@@ -22,7 +23,7 @@ Having the same input file, for each element in the left column:
   2. No requirement for keeping the order of the equal elements
 4. Iterate over lists and summarize the absolute difference
 
-## 2. part
+### 2. part
 1. Take advantage of the fact that the input is sorted:
   1. Use interval shrinking search functions to find first and last appearances
   2. Calculate number of appearance by subtracting the first appearance index from last (+1)
