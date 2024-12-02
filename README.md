@@ -1,4 +1,4 @@
-My journey to complete the 2024 (Advent of Code)[https://adventofcode.com/2024] challenge.
+My journey to complete the 2024 [Advent of Code](https://adventofcode.com/2024) challenge.
 
 The environments used have been chosen based on challange and fun factor, not ease of use or simplicity. So instead of two lines in Python, sometimes there are 200+ lines in C :)
 
