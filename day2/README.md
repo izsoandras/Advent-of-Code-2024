@@ -17,4 +17,4 @@ A state machine based approach had been used, where two state machines process t
 This way, with minimal processing power and memory, the defects can be found, with reading the input only character by character.
 
 ### 2. part
-Unfortunately the architecture of the first task does not support well this modified scenario.
+Unfortunately the architecture of the first task does not support well this modified scenario. Modifying the C code would have taken too much time, so I decided to ease the challange and implement the solution in python.
