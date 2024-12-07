@@ -74,4 +74,18 @@ int main(int argc, char* argv[]){
 		printf("Input file not found: %s\n", fileName);
 		return 0;
 	}
+
+	// Cheating: I've checked that the input is 140x140 character + new line
+	unsigned int inSize = 140;
+	unsigned int blockSize = 8;
+	unsigned int blockNum = inSize/blockSize + (inSize % blockSize > 0 ? 1 : 0);
+
+	BlockArray xmasArray = createBlockArray(blockNum, blockNum, blockSize);
+	
+
+	for(unsigned int rowIdx = 0; rowIdx < inSize; rowIdx++){
+		for(unsigned int colIdx = 0; colIdx < inSize; colIdx++){
+
+		}
+	}
 }
