@@ -6,3 +6,6 @@ Goals:
 - get more into linux and it's terminal interface
 - refresh knowledge about certain languages
 - have fun implementing stuff like when I began programming
+
+Log:
+- Day4: get bored of the meticulousness of C, decided that algorithm is what's important -> probably going to stick to python
