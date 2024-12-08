@@ -32,6 +32,10 @@ The antinodes can be anywhere on the line defined by the pair of antennas, as lo
         4. Add the current location to the list
 3. Count the number of `true` in the boolean matrix
 
+**__ACED__**
+
 ### 2. part
 
 Extend with not only subtracting/adding one location, but keep on repeating and marking, until we reach the edge of the matrix
+
+**__ACED__**
