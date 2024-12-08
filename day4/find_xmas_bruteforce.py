@@ -1,5 +1,4 @@
 import numpy as np
-import scipy.signal
 
 # Check for the given pattern along the diagonals of mat
 # mat and pattern must have appropriate dimensions
