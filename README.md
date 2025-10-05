@@ -9,3 +9,4 @@ Goals:
 
 Log:
 - Day4: get bored of the meticulousness of C, decided that algorithm is what's important -> probably going to stick to python
+- After loosing it at day 9, I returned next October with the goal to getting familiar with Manim and the animation capabilities of Matplotlib through visualizing these challenges
